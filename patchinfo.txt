@@ -1,3 +1,4 @@
+d3d9.dll 6c21d66481fa4fe37dab5f78fb8e9b1fe742dcf9
 DataTable\Character.edf 067760b708e576734e8ecd3e885c0a0640cb0760
 DataTable\en-gb\NDCharacter.edf bee71179e5077c355ec3828baeb9c070535bfe60
 DataTable\en-gb\NDEventShip.edf 261a3a03b1daf407a1476b7c03479cf7527872d4
