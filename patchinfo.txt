@@ -1,5 +1,5 @@
-DataTable\Character.edf 6039cb6d581fd5c067b2ab0b9c6490984098184e
-DataTable\en-gb\NDCharacter.edf a7c5c8fcd875fe38a938d064a072eda51af3a891
+DataTable\Character.edf 18aca497e188a7c221039514e37f244df5608e4c
+DataTable\en-gb\NDCharacter.edf c6cf83a9ee85474374c9de536d7f4434f7eefe6f
 DataTable\en-gb\NDEventShip.edf 261a3a03b1daf407a1476b7c03479cf7527872d4
 DataTable\en-gb\NDItem.edf 2f26898aa7196e6a6ea3334443a2062221ec4259
 DataTable\en-gb\NDItemCash.edf c541e09d1e10490c04916af76b6ede1445c4e740
@@ -8,7 +8,7 @@ DataTable\en-gb\NDMap.edf 055c28b41bb152f8648f25612b61e5efb7341811
 DataTable\en-gb\NDMsgEvent.edf c3d9e8e4c5e1947e7476e6ba161556d0d983931a
 DataTable\en-gb\NDMsgMonster.edf 1b9eb071e1ade10289f65ce6c359f9e14efd8e6b
 DataTable\en-gb\NDQuest.edf ddbea87a333f4751becb625ba32c0afaf12b5e2b
-DataTable\en-gb\NDSkillForce.edf 5c426842053059864f2ccd3d3cbd90c882c4884f
+DataTable\en-gb\NDSkillForce.edf 6568cca8a7787c2b7beafa7562557555ada3c82c
 DataTable\en-gb\NDStore.edf b965c5e8e1076029070c8537cdda6bbce5a8d6db
 DataTable\EventShip.edf 137a6a0744ac1c76567b95452b74833c2a867b62
 DataTable\Item.edf 5839532ca0c8bd0b2e9ad36382a798fab72c51a3
@@ -22,7 +22,7 @@ DataTable\MsgEvent.edf 1857f3f16fa04cad948b6c3cd9a0c13986577f88
 DataTable\PlayerCharacter.edf 6f9d74fe74a73a3d2b177354718379d74ec021b6
 DataTable\Quest.edf c3979c73eec2206ea5667ac7c784ca612d05725e
 DataTable\Resource.edf d6bec220c0531e5f8741e076ea41a5d48b3bd947
-DataTable\SkillForce.edf 2149061486d15755bde83c306a292f34557a3ddb
+DataTable\SkillForce.edf 8bcc8ef460d728b21dc65d42d92c677b5b8321e6
 DataTable\Store.edf f8812b5881baba5de60eafb50cae236dee8d3b59
 Map\Elan2\elan2.bsp b6634e8b681c19dd61ba82f765e7300b78e6c863
 Map\Elan2\elan2.ebp b6634e8b681c19dd61ba82f765e7300b78e6c863
