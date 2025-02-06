@@ -1,4 +1,3 @@
-d3d9.dll 
 DataTable\Character.edf 7a3c2bce5d9716c2f8b2505ca836521e85a9c892
 DataTable\en-gb\NDCharacter.edf ed3e24f04f63b3993caabee04b0397015feb51e2
 DataTable\en-gb\NDEventShip.edf 261a3a03b1daf407a1476b7c03479cf7527872d4
